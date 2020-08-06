@@ -1,3 +1,7 @@
+theme:jekyll-theme-midnight
+title: Welcome to NotHerAgain's homepage. 
+description: Feel free to save this page to see all the cool things I get up to!
+
 # Welcome to my portfolio!
 
 You can find my work on [codepen](https://codepen.io/NotHerAgain/) and [github](https://github.com/NotHerAgain).
